@@ -1,5 +1,5 @@
 #a { 
-    font-size : 5px;
+    font-size : 2px;
     color : red }
 
 body { 
@@ -16,7 +16,7 @@ header {
 .warning { 
     background: #ffcc00;
     padding: 15px;
-    text-align center;
+    text-align: center;
     font-weight: bold;
     font-size: 18px }
 
