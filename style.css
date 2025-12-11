@@ -5,6 +5,10 @@
 #b {
 	color : red }
 
+#head {
+    font-size: 50px
+}
+
 body { 
     font-family: Arial, sans-serif;
     margin: 0;
